@@ -17,17 +17,8 @@
 
 ### ✍️ Random Dev Quote
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" style="background-color:#0d1117; padding: 24px 32px; border-radius: 12px;">
-        <p><em><b style="color:#00f5c4">"First do it, then do it right, then do it better."</b></em></p>
-        <p align="right"><b style="color:#f07178">- Addy Osmani</b></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) !["First do it, then do it right, then do it better."] ![- Addy Osmani]
+      
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Yashraj-Coll&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
